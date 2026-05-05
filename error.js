@@ -3,7 +3,7 @@ try{
     let result= 10/0
     console.log(result)
     undefinedfunction()
-    console,log("this message will not run")
+    console.log("this message will not run")
 
 }catch(error){
     console.log("An error occured:" + error.name +error.message)
