@@ -18,3 +18,4 @@ try{
 }catch(error){
     console.log("An error occured :" + error.name +error.message)
 }
+// amlearning git 
